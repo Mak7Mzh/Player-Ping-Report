@@ -2,6 +2,8 @@
 
 Adds a simple `/ping` command so players can report suspected server lag.
 
+Using [Discord Messages](https://umod.org/plugins/discord-messages) for Log
+
 Config (example)
 
 ```json
